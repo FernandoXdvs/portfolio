@@ -546,7 +546,6 @@ section {
         justify-content: center;
         flex-flow: column;
         gap: 2rem;
-        box-shadow: 0 0 0 calc(100vh - 35rem) rgba(0, 0, 0, .7);
         transition: .2s linear;
     }
 
