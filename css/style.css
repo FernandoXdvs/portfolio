@@ -504,6 +504,43 @@ section {
     bottom: 2rem;
 }
 
+.contact{
+    background: #292930;
+    padding-bottom: 2rem;
+}
+
+.contact .row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 3rem;
+}
+
+.contact .row .form{
+    text-align: center;
+}
+
+.contact .row .form .heading span{
+    color: var(--white);
+}
+
+.contact .row .form .flex{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3rem;
+    color: var(--white);
+}
+
+.contact .row .form .flex .contact-info{
+    font-size: 2rem;
+    font-weight: lighter;
+}
+
+
+
+
+
 
 /*Media queries responsive design*/
 
